@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vimal-Sharma7
 - 👀 I’m interested in FrontEnd Web Development.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning React.js .
 - 💞️ I’m looking to collaborate on Web Projects based on React.js
 - 📫 How to reach me vimalsharma10082000@gmail.com
 
