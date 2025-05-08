@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vimal-Sharma7
-- 👀 I’m interested in FrontEnd Web Development.
-- 🌱 I’m currently learning React.js .
-- 💞️ I’m looking to collaborate on Web Projects based on React.js
+- 👀 I’m interested in FrontEnd Development.
+- 🌱 I’m currently Open to work as FullStack Developer.
+- 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me vimalsharma10082000@gmail.com
 
 <!---
